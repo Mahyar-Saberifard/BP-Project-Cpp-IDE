@@ -1,0 +1,11 @@
+# ninja log v6
+2	786	7646400803953276	build.ninja	43734eb372d82ff2
+11	639	7597583104568016	CMakeFiles/untitled.dir/main.cpp.obj	a7e68883b5a3b8e7
+3885	4714	7604491487703662	untitled.exe	e9bd7d71d5811bf9
+2	3856	7604491448863509	CMakeFiles/untitled.dir/NutCompiler.cpp.obj	f09a40e4e7e59850
+3	192	7598763184600194	CMakeFiles/untitled.dir/Compiler.cpp.obj	5f57ed68cdb7e3e6
+2	2127	7598761800251575	CMakeFiles/untitled.dir/parisa.cpp.obj	f1e6365caddeae63
+2	590	7601879490707658	CMakeFiles/untitled.dir/TextEditor.cpp.obj	9b8f611220e685a0
+1	515	7604489690629049	CMakeFiles/untitled.dir/HW8_Q2_403102152.cpp.obj	3a2b3c678ce1593c
+2	184	7604490516189907	CMakeFiles/untitled.dir/HW8_Q3_403102152.cpp.obj	1e073fcbb9ebf931
+2	893	7646400961185987	untitled.exe	c9ee7ce5e06ba8c5
